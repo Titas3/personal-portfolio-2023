@@ -117,8 +117,8 @@ const HeroBanner = () => {
                 >
                     {/* START */}
                     <div className="flex items-center gap-3">
-                        <div className="text-[80px] font-light">20+</div>
-                        <div className="leading-[22px]">
+                        <div className="text-[50px] font-light">20+</div>
+                        <div className="leading-[20px]">
                             SUCCESSFULLY
                             <br />
                             COMPLETED
@@ -130,8 +130,8 @@ const HeroBanner = () => {
 
                     {/* START */}
                     <div className="flex items-center gap-3">
-                        <div className="text-[80px] font-light">2+</div>
-                        <div className="leading-[22px]">
+                        <div className="text-[50px] font-light">2+</div>
+                        <div className="leading-[20px]">
                             YEARS OF
                             <br />
                             EXPERIENCE
